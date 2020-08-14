@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello 👋 I'm Taofeek Olalere
 
-[![Taofeek Olalere's github stats](https://github-readme-stats.vercel.app/api?username=teekaytech)](https://github.com/anuraghazra&show_icons=true&theme=radical)
+<p align='center'>I'm a Software Engineer from Nigeria :nigeria: West Side of Africa.</p>
+![My's github stats](https://github-readme-stats.vercel.app/api?username=teekaytech&theme=dark&show_icons=true)
 <!--
 **teekaytech/teekaytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Taofeek
