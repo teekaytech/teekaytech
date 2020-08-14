@@ -6,10 +6,11 @@
 
 
 <p align='center'>
-  I'm currently a student at [microverse](https://microverse.org) <br />
-  Talk about *Software Development* and I'm your guy 👯 <br />
+  I'm currently a <em>student</em> at <strong><a href='https://microverse.org'>microverse</a></strong> <br />
+  Talk about <strong>Software Development</strong> and I'm your guy 👯 <br />
   You can connect me on <a href="https://github.com/teekaytech">Github</a> | <a href="https://linkedin.com/in/olaleretaofeek">LinkedIn</a> | <a href="https://twitter.com/ola_lere">Twitter</a> <br />
-  Fun fact: How old were you when you learned that A is not only for Apple 😄
+  I wish to make <strong>writing</strong> my hubby, but I'm currently struggling with it 😄 <br />
+  I nourish my mind most times, with <strong>documentaries</strong> :heartbeat:
 </p>
 <!--
 **teekaytech/teekaytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
