@@ -6,9 +6,9 @@
 
 
 <p align='center'>
-  I'm currently a <b>student</b> and also a <b>Part-Time Technical Support Engineer</b> at <strong><a href='https://microverse.org'>microverse</a></strong> <br />
+  I'm a <b>Part-Time Technical Support Engineer</b> at <strong><a href='https://microverse.org'>microverse</a></strong> and I'm open to new opportunities. <br />
   Talk about <strong>Software Development</strong> and I'm your guy 👯 <br />
-  You can connect me on <a href="https://taofeekolalere.netlify.app/">Portfolio</a> | <a href="https://github.com/teekaytech">Github</a> | <a href="https://linkedin.com/in/olaleretaofeek">LinkedIn</a> | <a href="https://twitter.com/ola_lere">Twitter</a> <br />
+  You can connect me on <a href="https://taofeekolalere.me/">Portfolio</a> | <a href="https://github.com/teekaytech">Github</a> | <a href="https://linkedin.com/in/olaleretaofeek">LinkedIn</a> | <a href="https://twitter.com/ola_lere">Twitter</a> <br />
   I wish to make <strong>writing</strong> my hubby, but I'm currently struggling with it 😄 <br />
   I nourish my mind most times, with <strong>documentaries</strong> :heartbeat:
 </p>
