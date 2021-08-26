@@ -6,7 +6,7 @@
 
 
 <p align='center'>
-  I'm a <b>Part-Time Technical Support Engineer</b> at <strong><a href='https://microverse.org'>microverse</a></strong> and I'm open to new opportunities. <br />
+  I'm a <b>Ruby on Rails Developer</b> at <strong><a href='https://bowerbird.io'>BowerBird</a></strong>.<br />
   Talk about <strong>Software Development</strong> and I'm your guy 👯 <br />
   You can connect me on <a href="https://taofeekolalere.me/">Portfolio</a> | <a href="https://github.com/teekaytech">Github</a> | <a href="https://linkedin.com/in/olaleretaofeek">LinkedIn</a> | <a href="https://twitter.com/ola_lere">Twitter</a> <br />
   I wish to make <strong>writing</strong> my hubby, but I'm currently struggling with it 😄 <br />
