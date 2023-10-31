@@ -6,10 +6,10 @@
 
 
 <p align='center'>
-  <b>Software Engineer</b> at <strong><a href='https://www.doublegdp.com' target='_blank'>DoubleGDP</a></strong>.<br />
+  <b>Software Engineer (JavaScript/TypeScript/React, Ruby/Rails/PostgreSQL)</b><br />
   Talk about <strong>Software Development</strong> and I'm your guy 👯 <br />
   You can connect me on <a href="https://taofeekolalere.me/">Portfolio</a> | <a href="https://github.com/teekaytech">Github</a> | <a href="https://linkedin.com/in/olaleretaofeek">LinkedIn</a> | <a href="https://twitter.com/ola_lere">Twitter</a> <br />
-  I wish to make <strong>writing</strong> my hubby, but I'm currently struggling with it 😄 <br />
+  I challenging myself to <strong>write</strong> more, even though I struggle with it 😄 <br />
   I nourish my mind most times, with <strong>documentaries</strong> :heartbeat:
 </p>
 <!--
