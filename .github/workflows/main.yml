@@ -5,11 +5,11 @@ on:
   workflow_dispatch:
   schedule:
     # run at 12AM UTC 
-    - cron "0 0 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme DevMetrics Readme Update
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
