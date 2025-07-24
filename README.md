@@ -14,6 +14,24 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```ruby
+From: 15 March 2020 - To: 23 July 2025
+
+Total Time: 5,046 hrs 43 mins
+
+Other                      4,313 hrs 23 mins███████████▓░░░░░░░░░░░░░   46.08 %
+Ruby                       1,896 hrs 37 mins█████░░░░░░░░░░░░░░░░░░░░   20.26 %
+TypeScript                 1,375 hrs 11 mins███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+JavaScript                 789 hrs 56 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Python                     165 hrs 12 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+ERB                        163 hrs 37 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+HTML                       158 hrs 3 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+CSS                        94 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+PHP                        81 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+YAML                       55 hrs 43 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **teekaytech/teekaytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
