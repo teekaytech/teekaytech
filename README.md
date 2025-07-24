@@ -12,6 +12,9 @@
   I challenging myself to <strong>write</strong> more, even though I struggle with it 😄 <br />
   I nourish my mind most times, with <strong>documentaries</strong> :heartbeat:
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **teekaytech/teekaytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
