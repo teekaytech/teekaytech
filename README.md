@@ -16,16 +16,16 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 15 March 2020 - To: 28 September 2025
+From: 15 March 2020 - To: 29 September 2025
 
-Total Time: 9,554 hrs 1 min
+Total Time: 9,559 hrs 36 mins
 
-Other                      4,315 hrs 10 mins███████████▒░░░░░░░░░░░░░   45.17 %
-Ruby                       2,057 hrs 33 mins█████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-TypeScript                 1,375 hrs 18 mins███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-JavaScript                 802 hrs 36 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Other                      4,315 hrs 10 mins███████████▒░░░░░░░░░░░░░   45.14 %
+Ruby                       2,057 hrs 45 mins█████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+TypeScript                 1,375 hrs 18 mins███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+JavaScript                 804 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+HTML                       167 hrs 45 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ERB                        167 hrs 13 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Python                     165 hrs 37 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
