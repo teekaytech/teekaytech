@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 15 March 2020 - To: 20 December 2025
+From: 15 March 2020 - To: 21 December 2025
 
 Total Time: 9,870 hrs 36 mins
 
